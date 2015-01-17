@@ -10,14 +10,19 @@ http://challengepost.com/software/smart-doorbell
 Team
 -------------------------------------------
 Alan Chen
+
 David Hu
+
 George Lin
+
 Kevin Lin
 
 Tech Stack
 -------------------------------------------
 Cylon.js
+
 Node.js
+
 Intel Edison
 
 
